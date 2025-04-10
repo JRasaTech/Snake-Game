@@ -1,5 +1,7 @@
 # Swift Snake Game
 
+This is a test.
+
 This Snake game has been made to learn how to do a game in Swift (iOS App)
 I started by follow a tutorial at begining, but after I do it myself.
 
